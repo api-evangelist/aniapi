@@ -1,0 +1,32 @@
+aid: aniapi
+name: AniAPI
+description: "Anime discovery, streaming & syncing with trackers"
+url: https://aniapi.com/docs/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Anime"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Anime
+  - Public APIs
+apis:
+  - name: AniAPI
+    description: "Anime discovery, streaming & syncing with trackers"
+    humanURL: https://aniapi.com/docs/
+    baseURL: https://aniapi.com/docs/
+    tags:
+      - Anime
+    properties:
+      - type: Documentation
+        url: https://aniapi.com/docs/
+common:
+  - type: Website
+    url: https://aniapi.com/docs/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
