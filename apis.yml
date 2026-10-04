@@ -39,7 +39,6 @@ apis:
   - name: AniAPI
     description: "Anime discovery, streaming & syncing with trackers"
     humanURL: https://aniapi.com/docs/
-    baseURL: https://aniapi.com/docs/
     tags:
       - Anime
     properties:
